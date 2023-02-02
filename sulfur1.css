@@ -466,7 +466,7 @@ nav.menu-btn {
 
 .section {
     height: 400px;
-    background-image: url(../Website/call-to.jpg);
+    background-image: url(call-to.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: 50% 90%;
@@ -915,7 +915,7 @@ nav.menu-btn {
 
 .ipod_mini {
     /* height: 1500px; */
-    background-image: url(../Website/call-to.jpg);
+    background-image: url(call-to.jpg);
     /* background-attachment: fixed; */
     background-size: cover;
     background-position: 50% 90%;
