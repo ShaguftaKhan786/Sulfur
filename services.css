@@ -205,7 +205,7 @@ nav.menu-btn {
 
 .feature {
     height: 150px;
-    background-image: url(../Website/banner.jpg);
+    background-image: url("banner.jpg");
     margin-top: 80px;
     padding-top: 50px;
     padding-bottom: 0px;
@@ -331,7 +331,7 @@ nav.menu-btn {
 
 .section {
     height: 400px;
-    background-image: url(../Website/bg-02.jpg);
+    background-image: url("bg-02.jpg");
     background-attachment: fixed;
     background-size: cover;
     padding-top: 120px;
@@ -501,14 +501,14 @@ nav.menu-btn {
 
 .ipod_mini {
     /* height: 1500px; */
-    background-image: url(../Website/call-to.jpg);
+    background-image: url("call-to.jpg");
     /* background-attachment: fixed; */
     background-size: cover;
     background-position: 50% 90%;
     color: #fff;
     text-align: center;
     margin-top: 200px;
-/* background-image: url(../Website/call-to.jpg); */
+/* background-image: url("call-to.jpg"); */
 }
 
 
