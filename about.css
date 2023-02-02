@@ -208,7 +208,7 @@ nav.menu-btn {
 
 .feature {
     height: 150px;
-    background-image: url(../Website/banner.jpg);
+    background-image: url("banner.jpg)";
     margin-top: 80px;
     padding-top: 50px;
     padding-bottom: 0px;
@@ -603,7 +603,7 @@ nav.menu-btn {
 /* ONE_DRIVE CLOSED */
 .section {
     height: 400px;
-    background-image: url(../Website/call-to.jpg);
+    background-image: url("call-to.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: 50% 90%;
