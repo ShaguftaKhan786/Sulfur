@@ -208,7 +208,7 @@ nav.menu-btn {
 
 .feature {
     height: 117px;
-    background-image: url(../Website/banner.jpg);
+    background-image: url("banner.jpg");
     margin-top: 80px;
     padding-top: 50px;
     padding-bottom: 0px;
