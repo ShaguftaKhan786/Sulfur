@@ -224,7 +224,7 @@ nav.menu-btn {
     height: 500px;
     text-align: center;
     color: #fff;
-    background-image: url(../Website/banner.jpg);
+    background-image: url(.../Website/banner.jpg);
     background-size: cover;
 
 }
